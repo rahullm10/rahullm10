@@ -22,19 +22,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahullm10" alt="rahullm10" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/rahullm10](https://linktr.ee/rahullm10)
+- 📫 How to reach me **upadhyayrahul1102@gmail.com**
 
-- 📫 How to reach me **rahullm1001@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dohvZpkF-Te71WG8G7gxD7_DjDDAQee1/view?usp=sharing](https://drive.google.com/file/d/1dohvZpkF-Te71WG8G7gxD7_DjDDAQee1/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XlG5-0aYKRZQO558juzR_s09ASv43iZf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jatan-sahu-2a06381b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatan-sahu-2a06381b1" height="30" width="40" /></a>
-<a href="https://kaggle.com/rahullm10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rahullm10" height="30" width="40" /></a>
-<a href="https://instagram.com/rahullm10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahullm10" height="30" width="40" /></a>
-<a href="https://www.behance.net/rahullm102000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rahullm102000" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rahullm10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahullm10" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sakshi-parihar-071371247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatan-sahu-2a06381b1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
