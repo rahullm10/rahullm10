@@ -2,8 +2,8 @@
 
 
 <p>
-  <h3>Welcome to my page!</h3> </br> 
-  <h3>I'm Rahul, a data science enthusiast from <br> Gujarat, India</b></h3>
+  Welcome to my page!</h3> </br> 
+  I'm Rahul, a data science enthusiast from <br> Gujarat, India</b>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
