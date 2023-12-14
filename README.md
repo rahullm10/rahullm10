@@ -24,7 +24,7 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahullm10&label=Profile%20views&color=0e75b6&style=flat" alt="rahullm10" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahullm10" alt="rahullm10" /></a> </p>
 
@@ -32,10 +32,6 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XlG5-0aYKRZQO558juzR_s09ASv43iZf/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rahul-upadhyay-3a659b199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatan-sahu-2a06381b1" height="30" width="40" /></a>
-</p>
 
 <h3>Where to find me</h3>
 <p>
@@ -43,3 +39,4 @@
   <a href="https://linkedin.com/in/rahul-upadhyay-3a659b199" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahullm10&label=Profile%20views&color=0e75b6&style=flat" alt="rahullm10" /> </p>
