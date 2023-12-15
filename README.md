@@ -63,13 +63,6 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XlG5-0aYKRZQO558juzR_s09ASv43iZf/view?usp=sharing)
 
 
-<h3>Where to find me</h3>
-<p>
-  <a href="https://github.com/rahullm10" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://linkedin.com/in/rahul-upadhyay-3a659b199" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahullm10&label=Profile%20views&color=0e75b6&style=flat" alt="rahullm10" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahullm10&show_icons=true&locale=en&layout=compact" alt="rahullm10" /></p>
 
@@ -77,4 +70,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahullm10&" alt="rahullm10" /></p>
 
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/rahullm10" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://linkedin.com/in/rahul-upadhyay-3a659b199" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahullm10&label=Profile%20views&color=0e75b6&style=flat" alt="rahullm10" /> </p>
